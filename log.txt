@@ -1,0 +1,343 @@
+Searching for integrator.xml ...
+
+init:
+
+dita2html5-bootstrap.init:
+
+html5.init:
+
+init-properties:
+[init-project] Initializing project
+
+check-arg:
+   [delete] Deleting directory /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518
+    [mkdir] Created dir: /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518
+
+log-arg:
+     [echo] *****************************************************************
+     [echo] * basedir = /home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1
+     [echo] * dita.dir = /home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1
+     [echo] * transtype = html5-bootstrap
+     [echo] * tempdir = /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518
+     [echo] * outputdir = /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap
+     [echo] * clean.temp = true
+     [echo] * DITA-OT version = 3.6.1
+     [echo] * XML parser = Xerces
+     [echo] * XSLT processor = Saxon
+     [echo] * collator = ICU
+     [echo] *****************************************************************
+     [echo] #Ant properties
+     [echo] #Mon Jun 10 15:52:53 GMT 2024
+     [echo] dita.plugin.org.dita.base.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.base
+     [echo] dita.temp.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518
+     [echo] args.xsl=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [echo] args.html5.toc=toc
+     [echo] args.grammar.cache=yes
+     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.xdita.v0_2_2
+     [echo] dita.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1
+     [echo] dita.plugin.org.dita.pdf2.axf.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.axf
+     [echo] args.hdf=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bootstrap.hdf.xml
+     [echo] args.copycss=yes
+     [echo] args.csspath=css
+     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_3
+     [echo] dita.plugin.org.lwdita.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.lwdita
+     [echo] dita.plugin.org.oasis-open.dita.v2_0.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v2_0
+     [echo] args.hdr=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bs-navbar-default.hdr.xml
+     [echo] dita.plugin.org.dita.htmlhelp.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.htmlhelp
+     [echo] dita.output.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap
+     [echo] dita.plugin.org.dita.eclipsehelp.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.eclipsehelp
+     [echo] dita.plugin.org.dita.normalize.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.normalize
+     [echo] dita.plugin.org.dita.xhtml.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.xhtml
+     [echo] dita.plugin.org.dita.pdf2.xep.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.xep
+     [echo] dita.plugin.org.dita.specialization.dita11.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.specialization.dita11
+     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_2
+     [echo] dita.plugin.org.dita.pdf2.fop.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.fop
+     [echo] args.input=/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/1_Introduction_to_Talon_for_MacOS.ditamap
+     [echo] args.xml.systemid.set=yes
+     [echo] dita.plugin.org.dita.pdf2.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2
+     [echo] dita.plugin.org.dita.html5.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5
+     [echo] dita.html5.reloadstylesheet=false
+     [echo] dita.plugin.org.oasis-open.dita.techcomm.v2_0.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.techcomm.v2_0
+     [echo] dita.plugin.org.dita.index.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.index
+     [echo] dita.plugin.net.infotexture.dita-bootstrap.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap
+     [echo] dita.plugin.fox.jason.extend.css.dir=/home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/fox.jason.extend.css
+     [echo] dita.extname=dita
+     [echo] *****************************************************************
+
+build-init:
+
+preprocess.init:
+     [echo] *****************************************************************
+     [echo] * input = /home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/1_Introduction_to_Talon_for_MacOS.ditamap
+     [echo] * resources = ${args.resources}
+     [echo] *****************************************************************
+
+ditaval-merge:
+
+gen-list:
+ [gen-list] Using Xerces grammar pool for DTD and schema caching.
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/1_Introduction_to_Talon_for_MacOS.ditamap
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/1_Getting_Started_with_Talon/0_Getting_Started_with_Talon.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/1_Getting_Started_with_Talon/1_What_is_Talon.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/0_Setting_up_Talon_on_your_Computer.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/1-How_do_I_install_Talon.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/2-How_do_I_add_voice_commands_to_Talon.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/3-How_do_I_add_a_speech_recognition_system_to_Talon.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/4_How_can_I_change_the_microphone_in_Talon.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/0_Learning_Talon_Voice_Commands.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/1_What_are_the_different_modes_for_Talon.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/2_Using_the_Talon_Modes.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/3_What_are_the_Talon_voice_commands_for_working_with_text.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/4_How_do_I_punctuate_using_Talon_voice_commands.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/5_What_are_the_Talon_voice_commands_for_web_browser_tabs.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/6_What_are_the_Talon_mouse_commands.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/7_What_are_the_Talon_voice_commands_for_scrolling.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/8_How_do_I_dictate_in_command_mode.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/4_Adding_Additional_Customization/0_Adding_Customizations_to_Talon.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/4_Adding_Additional_Customization/1_How_do_I_install_the_Rango_extension.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/4_Adding_Additional_Customization/2_How_do_I_enable_Rango_for_Safari.dita
+ [gen-list] Serializing job specification
+
+debug-filter:
+   [filter] Using Xerces grammar pool for DTD and schema caching.
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/1_Introduction_to_Talon_for_MacOS.ditamap to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Introduction_to_Talon_for_MacOS.ditamap
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/4_How_can_I_change_the_microphone_in_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/4_How_can_I_change_the_microphone_in_Talon.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/4_Adding_Additional_Customization/0_Adding_Customizations_to_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/0_Adding_Customizations_to_Talon.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/4_Adding_Additional_Customization/2_How_do_I_enable_Rango_for_Safari.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/2_How_do_I_enable_Rango_for_Safari.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/8_How_do_I_dictate_in_command_mode.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/8_How_do_I_dictate_in_command_mode.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/2_Using_the_Talon_Modes.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/2_Using_the_Talon_Modes.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/0_Learning_Talon_Voice_Commands.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/0_Learning_Talon_Voice_Commands.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/1_Getting_Started_with_Talon/1_What_is_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/1_What_is_Talon.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/4_Adding_Additional_Customization/1_How_do_I_install_the_Rango_extension.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/1_How_do_I_install_the_Rango_extension.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/4_How_do_I_punctuate_using_Talon_voice_commands.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/4_How_do_I_punctuate_using_Talon_voice_commands.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/3-How_do_I_add_a_speech_recognition_system_to_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/3-How_do_I_add_a_speech_recognition_system_to_Talon.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/0_Setting_up_Talon_on_your_Computer.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/0_Setting_up_Talon_on_your_Computer.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/2-How_do_I_add_voice_commands_to_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/2-How_do_I_add_voice_commands_to_Talon.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/1_Getting_Started_with_Talon/0_Getting_Started_with_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/0_Getting_Started_with_Talon.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/1_What_are_the_different_modes_for_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/1_What_are_the_different_modes_for_Talon.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/6_What_are_the_Talon_mouse_commands.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/6_What_are_the_Talon_mouse_commands.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/2_Setting_up_Talon_on_your_Computer/1-How_do_I_install_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/1-How_do_I_install_Talon.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/7_What_are_the_Talon_voice_commands_for_scrolling.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/7_What_are_the_Talon_voice_commands_for_scrolling.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/3_What_are_the_Talon_voice_commands_for_working_with_text.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/3_What_are_the_Talon_voice_commands_for_working_with_text.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/source/0/3_Learning_Talon_voice_commands/5_What_are_the_Talon_voice_commands_for_web_browser_tabs.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/5_What_are_the_Talon_voice_commands_for_web_browser_tabs.dita
+
+mapref-check:
+
+mapref:
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Introduction_to_Talon_for_MacOS.ditamap
+
+branch-filter:
+[branch-filter] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Introduction_to_Talon_for_MacOS.ditamap
+
+keyref:
+   [mapref] Transforming into /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518
+   [mapref] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mapref.xsl
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Introduction_to_Talon_for_MacOS.ditamap
+
+copy-to:
+
+conrefpush:
+
+conref:
+
+profile-check:
+
+profile:
+
+topic-fragment:
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/4_How_can_I_change_the_microphone_in_Talon.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/0_Adding_Customizations_to_Talon.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/2_How_do_I_enable_Rango_for_Safari.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/8_How_do_I_dictate_in_command_mode.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/2_Using_the_Talon_Modes.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/0_Learning_Talon_Voice_Commands.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/1_What_is_Talon.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/1_How_do_I_install_the_Rango_extension.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/4_How_do_I_punctuate_using_Talon_voice_commands.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/3-How_do_I_add_a_speech_recognition_system_to_Talon.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/0_Setting_up_Talon_on_your_Computer.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/2-How_do_I_add_voice_commands_to_Talon.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/0_Getting_Started_with_Talon.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/1_What_are_the_different_modes_for_Talon.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/6_What_are_the_Talon_mouse_commands.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/1-How_do_I_install_Talon.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/7_What_are_the_Talon_voice_commands_for_scrolling.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/3_What_are_the_Talon_voice_commands_for_working_with_text.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/5_What_are_the_Talon_voice_commands_for_web_browser_tabs.dita
+
+chunk-check:
+
+chunk:
+    [chunk] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Introduction_to_Talon_for_MacOS.ditamap
+
+move-meta-entries:
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Introduction_to_Talon_for_MacOS.ditamap
+[move-meta] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mappull.xsl
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Introduction_to_Talon_for_MacOS.ditamap
+
+maplink-check:
+
+maplink:
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/0_Getting_Started_with_Talon.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/1_What_are_the_different_modes_for_Talon.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/4_How_can_I_change_the_microphone_in_Talon.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/8_How_do_I_dictate_in_command_mode.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/2_How_do_I_enable_Rango_for_Safari.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/0_Adding_Customizations_to_Talon.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/6_What_are_the_Talon_mouse_commands.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/1-How_do_I_install_Talon.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/7_What_are_the_Talon_voice_commands_for_scrolling.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/0_Learning_Talon_Voice_Commands.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/2_Using_the_Talon_Modes.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/1_How_do_I_install_the_Rango_extension.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/1_What_is_Talon.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/3_What_are_the_Talon_voice_commands_for_working_with_text.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/3-How_do_I_add_a_speech_recognition_system_to_Talon.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/4_How_do_I_punctuate_using_Talon_voice_commands.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/2-How_do_I_add_voice_commands_to_Talon.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/5_What_are_the_Talon_voice_commands_for_web_browser_tabs.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/0_Setting_up_Talon_on_your_Computer.dita
+
+topicpull-check:
+
+topicpull:
+[topicpull] Transforming into /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518
+[topicpull] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/4_How_can_I_change_the_microphone_in_Talon.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/0_Adding_Customizations_to_Talon.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/2_How_do_I_enable_Rango_for_Safari.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/8_How_do_I_dictate_in_command_mode.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/2_Using_the_Talon_Modes.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/0_Learning_Talon_Voice_Commands.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/1_What_is_Talon.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/1_How_do_I_install_the_Rango_extension.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/4_How_do_I_punctuate_using_Talon_voice_commands.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/3-How_do_I_add_a_speech_recognition_system_to_Talon.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/0_Setting_up_Talon_on_your_Computer.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/2-How_do_I_add_voice_commands_to_Talon.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/0_Getting_Started_with_Talon.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/1_What_are_the_different_modes_for_Talon.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/6_What_are_the_Talon_mouse_commands.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/1-How_do_I_install_Talon.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/7_What_are_the_Talon_voice_commands_for_scrolling.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/3_What_are_the_Talon_voice_commands_for_working_with_text.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/5_What_are_the_Talon_voice_commands_for_web_browser_tabs.dita
+
+clean-map-check:
+
+clean-map:
+[clean-map] Transforming into /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518
+[clean-map] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
+[clean-map] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Introduction_to_Talon_for_MacOS.ditamap
+
+clean-preprocess:
+
+copy-image:
+     [copy] Copying 18 files to /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap
+
+copy-html:
+
+copy-flag-check:
+
+copy-flag:
+
+copy-files:
+
+extend.css.init:
+
+dita-bootstrap.css.copy:
+
+extend.css.copy:
+     [copy] Copying 1 file to /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/css
+
+extend.css:
+
+preprocess:
+
+html5.topic.init:
+
+html5.image-metadata:
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/4_How_can_I_change_the_microphone_in_Talon.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/4-Mic/Talon3-Microphone-c2.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/0_Adding_Customizations_to_Talon.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/2_How_do_I_enable_Rango_for_Safari.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/6-Safari/1-Rango-safari-settings-c.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/6-Safari/2-Rango-safari-extension-c.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/6-Safari/3-RangoElements_copy-c.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/8_How_do_I_dictate_in_command_mode.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/2_Using_the_Talon_Modes.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/0_Learning_Talon_Voice_Commands.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/1_What_is_Talon.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/1_How_do_I_install_the_Rango_extension.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/5-Rango/1-Rango1-c.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/5-Rango/2-Rango3FINAL-c.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/5-Rango/3-Talon2-step7_copy-c.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/5-Rango/4-Rango4-c.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/5-Rango/5-Rango-use-example-c.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/4_How_do_I_punctuate_using_Talon_voice_commands.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/3-How_do_I_add_a_speech_recognition_system_to_Talon.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/3-SpeechEn/Talon3-step1-c2.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/0_Setting_up_Talon_on_your_Computer.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/2-How_do_I_add_voice_commands_to_Talon.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/2-VC/1-Talon2-step3-c.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/2-VC/2-Talon2-main-c.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/2-VC/3-Talon2-step7-c.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/2-VC/4-Talon2-community-c.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/0_Getting_Started_with_Talon.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/1_What_are_the_different_modes_for_Talon.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/6_What_are_the_Talon_mouse_commands.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/1-How_do_I_install_Talon.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/1-Install/1-Install_Mac-2.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/1-Install/Install_Mac-32New2.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/1-Install/3-Install_Mac-4-convert-3.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/NEW_IMAGES/1-Install/4-TalonGreenSwitch.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/7_What_are_the_Talon_voice_commands_for_scrolling.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/3_What_are_the_Talon_voice_commands_for_working_with_text.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/5_What_are_the_Talon_voice_commands_for_web_browser_tabs.dita
+
+html5.topics.common:
+
+html5.topics.common.inner:
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/4_How_can_I_change_the_microphone_in_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/2_Setting_up_Talon_on_your_Computer/4_How_can_I_change_the_microphone_in_Talon.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/0_Adding_Customizations_to_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/4_Adding_Additional_Customization/0_Adding_Customizations_to_Talon.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/2_How_do_I_enable_Rango_for_Safari.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/4_Adding_Additional_Customization/2_How_do_I_enable_Rango_for_Safari.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/8_How_do_I_dictate_in_command_mode.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/3_Learning_Talon_voice_commands/8_How_do_I_dictate_in_command_mode.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/2_Using_the_Talon_Modes.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/3_Learning_Talon_voice_commands/2_Using_the_Talon_Modes.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/0_Learning_Talon_Voice_Commands.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/3_Learning_Talon_voice_commands/0_Learning_Talon_Voice_Commands.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/1_What_is_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/1_Getting_Started_with_Talon/1_What_is_Talon.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/4_Adding_Additional_Customization/1_How_do_I_install_the_Rango_extension.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/4_Adding_Additional_Customization/1_How_do_I_install_the_Rango_extension.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/4_How_do_I_punctuate_using_Talon_voice_commands.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/3_Learning_Talon_voice_commands/4_How_do_I_punctuate_using_Talon_voice_commands.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/3-How_do_I_add_a_speech_recognition_system_to_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/2_Setting_up_Talon_on_your_Computer/3-How_do_I_add_a_speech_recognition_system_to_Talon.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/0_Setting_up_Talon_on_your_Computer.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/2_Setting_up_Talon_on_your_Computer/0_Setting_up_Talon_on_your_Computer.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/2-How_do_I_add_voice_commands_to_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/2_Setting_up_Talon_on_your_Computer/2-How_do_I_add_voice_commands_to_Talon.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Getting_Started_with_Talon/0_Getting_Started_with_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/1_Getting_Started_with_Talon/0_Getting_Started_with_Talon.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/1_What_are_the_different_modes_for_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/3_Learning_Talon_voice_commands/1_What_are_the_different_modes_for_Talon.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/6_What_are_the_Talon_mouse_commands.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/3_Learning_Talon_voice_commands/6_What_are_the_Talon_mouse_commands.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/2_Setting_up_Talon_on_your_Computer/1-How_do_I_install_Talon.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/2_Setting_up_Talon_on_your_Computer/1-How_do_I_install_Talon.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/7_What_are_the_Talon_voice_commands_for_scrolling.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/3_Learning_Talon_voice_commands/7_What_are_the_Talon_voice_commands_for_scrolling.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/3_What_are_the_Talon_voice_commands_for_working_with_text.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/3_Learning_Talon_voice_commands/3_What_are_the_Talon_voice_commands_for_working_with_text.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/3_Learning_Talon_voice_commands/5_What_are_the_Talon_voice_commands_for_web_browser_tabs.dita to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/3_Learning_Talon_voice_commands/5_What_are_the_Talon_voice_commands_for_web_browser_tabs.html
+
+html5.topic:
+
+html5.map.init:
+
+html5.map.toc:
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13952064203988837145/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5/xsl/map2html5-cover.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-temp10042984498050530518/1_Introduction_to_Talon_for_MacOS.ditamap to file:/home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/toc.html
+
+html5.map:
+
+html5.css:
+     [copy] Copying 2 files to /home/dita-ot/dita-ot/dita-ot13952064203988837145/ot-output/html5-bootstrap/css
+
+html5.copy-css-user:
+
+dita2html5:
+
+dita2html5-bootstrap:
+
+clean-temp:
